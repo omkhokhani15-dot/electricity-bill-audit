@@ -1,0 +1,17 @@
+month,line_item,basis_qty,basis_unit,rate_rs,printed_amount_rs
+2026-01,Demand charge,800,kVA,150,120000
+2026-01,Energy charge,100000,kWh,4.15,415000
+2026-01,Time-of-use charge (peak hours),22000,kWh,0.85,18700
+2026-01,Fuel & power purchase adjustment,100000,kWh,2.90,290000
+2026-01,Power factor rebate,100000,kWh,-0.0415,-4150
+2026-01,Electricity duty,,% of above,15,125933
+2026-01,Solar open-access credit,,,,-310000
+2026-01,PRINTED TOTAL PAYABLE,,,,655483
+2026-02,Demand charge,1000,kVA,150,150000
+2026-02,Energy charge,108000,kWh,4.15,448200
+2026-02,Time-of-use charge (peak hours),26000,kWh,0.85,22100
+2026-02,Fuel & power purchase adjustment,108000,kWh,2.90,313200
+2026-02,Power factor rebate,108000,kWh,-0.0415,-4482
+2026-02,Electricity duty,,% of above,15,139353
+2026-02,Solar open-access credit,,,,-285000
+2026-02,PRINTED TOTAL PAYABLE,,,,784371
