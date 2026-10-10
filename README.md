@@ -2,7 +2,7 @@
 
 **Rebuilt real high-tension (HT) electricity bills line by line, reconciled them to the printed total, and identified ~Rs 18 lakh/year in recoverable costs for one textile manufacturer.**
 
-Industrial consumers in Gujarat with open-access solar get two documents each month: the utility bill and a solar settlement sheet. The two are hard to read together, errors go unnoticed, and exemptions or credits can lapse quietly. This project checks every line and puts a rupee value on every problem.
+Industrial consumers in Gujarat with open-access solar get 5 documents each month: the utility bill and a solar settlement sheet. They are hard to read together, errors go unnoticed, and exemptions or credits can lapse quietly. This project checks every line and puts a rupee value on every problem.
 
 > The production engine and client bills are private. This repo explains the method and includes a runnable demo on **synthetic** data.
 
